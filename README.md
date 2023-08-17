@@ -3,7 +3,7 @@
 #### 💬 About me
 
 - 🏛️ Education: University of Science, majoring Software Engineer
-- 🌱 Currently learning Web Fullstack and Android
+- 🚀 Working as a Software Engineer
 
 #### ⚡ GitHub's Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thidinhxm&hide=issues,contribs&count_private=true&show_icons=true" alt="vinhqngo4" /> </p>
